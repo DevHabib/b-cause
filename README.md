@@ -1,2 +1,2 @@
 # b-cause
-#(https://devhabib.github.io/bcause/)[Live Preview]
+# [Live Preview](https://devhabib.github.io/bcause/)
